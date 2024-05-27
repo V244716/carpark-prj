@@ -102,10 +102,8 @@ Ensure you have completed the previous table and include at least two methods an
 
 **Evidencing:**
 Include a screenshot of your GitHub repository `src/` directory **after** you have pushed your changes.
+![img_1.png](img_1.png)
 
-```markdown
-![Added stubs for classes](images/stubs-for-classes.png)
-```
 
 ### Add constructors and attributes to the classes
 
