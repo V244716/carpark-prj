@@ -442,26 +442,24 @@ This time, we will push the tag to the remote repository:
 
 Add a screenshot of the GitHub repository after pushing the tag, showing the CarPark class with the new methods:
 
-```markdown
-![Added methods to the car park class](images/methods-to-car-park.png)
-```
+![img_2.png](img_2.png)
 
 Answer the following questions:
 > **Review Questions**
 >
 > 1. **Which class is responsible for each of the following pieces of information (and why)?**
 >    - _The number of available bays_  
->      `Answer here...`
+>      `CarPark` because a method decorated as a property (.available_bays) dynamically calculates this value
 >    - _The current temperature_  
->      `Answer here...`
+>      `CarPark` is currently passing the temperature as a parameter to the update method of the Display class
 >    - _The time_  
->      `Answer here...`
+>      `CarPark` is currently passing the time as a parameter to the update method of the Display class
 >
 > 2. **What is the difference between an attribute and a property?**  
->    `Answer here...`
+>    `An attribute is an instance variable whereas a property is a function (method) that behaves like an attribute. This means a property can be programmed to update itself every time it is "read", thereby always returning the most up-to-date value.`
 >
 > 3. **Why do you think we used a dictionary to hold the data we passed the display? List at least one advantage and one disadvantage of this approach.**  
->    `Answer here...`
+>    `A dictionary can hold any number of key-value pairs which provides maximum flexibility when varying the information to be displayed. This has the advantage that the update method of the Display class is naive to the information set it is to expect from the calling function. A disadvantage of this is that the display could be passed more information than it is capable of displaying or an error may be encountered if the dictionary is not correctly enumerated.`
 
 #### Add a detect vehicle method to the Sensor class
 

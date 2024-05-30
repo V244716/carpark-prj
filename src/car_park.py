@@ -12,7 +12,7 @@ class CarPark:
     def available_bays(self):
         # car_park.available_bays
         available = self.capacity - len(self.plates)
-        if available < 0 available = 0
+        if available < 0: available = 0
         return available
 
     def __str__(self):
