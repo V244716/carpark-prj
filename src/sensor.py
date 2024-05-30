@@ -8,8 +8,10 @@ class Sensor:
     def __str__(self):
         return f"'{self.id}': Sensor is {'is active' if self.is_active else 'is inactive'}"
 
+
 class EntrySensor(Sensor):
     pass
+
 
 class ExitSensor(Sensor):
     pass

@@ -365,12 +365,17 @@ You may want to see the number of available bays, the current temperature, and t
 
 Now consider, between the `CarPark`, `Sensor`, and `Display` classes, which class is responsible for each piece of information? There's no right or wrong answer here. But you should be able to justify your answer.
 
->Q. Which class is responsible for the number of available bays (and why)?
->
+>Q. Which class is responsible for the number of available bays (and why)? 
+> 
+`CarPark` class because it contains the `capacity` variable
+ 
 >Q. Which class is responsible for the current temperature (and why)?
 >
+Currently no class is defined with a `temperature` variable
 >Q. Which class is responsible for the time (and why)?
 >
+Currently no class is defined with a `time` variable
+
 --------
 
 ##### Detour: implement available bays
