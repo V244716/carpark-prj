@@ -64,7 +64,7 @@ This guide provides detailed step-by-step instructions for completing the projec
 **Evidencing:**
 Include a screenshot of your GitHub repository **after** you have pushed your initial commit.
 
-![11. guthub push](screenshots/11_github_push.png)
+![img.png](img.png)
 
 
 ### Identify classes, methods, and attributes
