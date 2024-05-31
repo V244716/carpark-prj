@@ -20,7 +20,7 @@ class CarPark:
         with open(file_name, "w") as file:
             json.dump({"location": self.location,
                        "capacity": self.capacity,
-                       "log_file": str(self.log_file)}), file)
+                       "log_file": str(self.log_file)}), file
 
     @staticmethod
     def from_json(file_name):
