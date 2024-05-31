@@ -1,7 +1,6 @@
 import unittest
 from car_park import CarPark
 
-
 class TestCarPark(unittest.TestCase):
     def setUp(self):
         self.car_park = CarPark("123 Example Street", 100)
