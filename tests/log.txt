@@ -1,439 +1,645 @@
-FAKE-318 entered on the 31-05 14:15
-FAKE-231 entered on the 31-05 14:16
-FAKE-340 entered on the 31-05 14:16
-FAKE-251 entered on the 31-05 14:19
-FAKE-527 entered on the 31-05 14:19
-FAKE-994 entered on the 31-05 14:21
-FAKE-087 entered on the 31-05 14:21
-FAKE-750 entered on the 31-05 14:21
-FAKE-266 entered on the 31-05 14:21
-FAKE-800 entered on the 31-05 14:22
-FAKE-402 entered on the 31-05 14:22
-FAKE-517 entered on the 31-05 14:25
-FAKE-584 entered on the 31-05 14:25
-FAKE-517 exited on the 31-05 14:25
-FAKE-584 exited on the 31-05 14:25
-FAKE-045 entered on the 31-05 14:28
-FAKE-454 entered on the 31-05 14:28
-FAKE-045 exited on the 31-05 14:28
-FAKE-454 exited on the 31-05 14:28
-FAKE-001 entered on the 31-05 14:38
-FAKE-0 entered on the 31-05 14:38
-FAKE-1 entered on the 31-05 14:38
-FAKE-2 entered on the 31-05 14:38
-FAKE-3 entered on the 31-05 14:38
-FAKE-4 entered on the 31-05 14:38
-FAKE-5 entered on the 31-05 14:38
-FAKE-6 entered on the 31-05 14:38
-FAKE-7 entered on the 31-05 14:38
-FAKE-8 entered on the 31-05 14:38
-FAKE-9 entered on the 31-05 14:38
-FAKE-10 entered on the 31-05 14:38
-FAKE-11 entered on the 31-05 14:38
-FAKE-12 entered on the 31-05 14:38
-FAKE-13 entered on the 31-05 14:38
-FAKE-14 entered on the 31-05 14:38
-FAKE-15 entered on the 31-05 14:38
-FAKE-16 entered on the 31-05 14:38
-FAKE-17 entered on the 31-05 14:38
-FAKE-18 entered on the 31-05 14:38
-FAKE-19 entered on the 31-05 14:38
-FAKE-20 entered on the 31-05 14:38
-FAKE-21 entered on the 31-05 14:38
-FAKE-22 entered on the 31-05 14:38
-FAKE-23 entered on the 31-05 14:38
-FAKE-24 entered on the 31-05 14:38
-FAKE-25 entered on the 31-05 14:38
-FAKE-26 entered on the 31-05 14:38
-FAKE-27 entered on the 31-05 14:38
-FAKE-28 entered on the 31-05 14:38
-FAKE-29 entered on the 31-05 14:38
-FAKE-30 entered on the 31-05 14:38
-FAKE-31 entered on the 31-05 14:38
-FAKE-32 entered on the 31-05 14:38
-FAKE-33 entered on the 31-05 14:38
-FAKE-34 entered on the 31-05 14:38
-FAKE-35 entered on the 31-05 14:38
-FAKE-36 entered on the 31-05 14:38
-FAKE-37 entered on the 31-05 14:38
-FAKE-38 entered on the 31-05 14:38
-FAKE-39 entered on the 31-05 14:38
-FAKE-40 entered on the 31-05 14:38
-FAKE-41 entered on the 31-05 14:38
-FAKE-42 entered on the 31-05 14:38
-FAKE-43 entered on the 31-05 14:38
-FAKE-44 entered on the 31-05 14:38
-FAKE-45 entered on the 31-05 14:38
-FAKE-46 entered on the 31-05 14:38
-FAKE-47 entered on the 31-05 14:38
-FAKE-48 entered on the 31-05 14:38
-FAKE-49 entered on the 31-05 14:38
-FAKE-50 entered on the 31-05 14:38
-FAKE-51 entered on the 31-05 14:38
-FAKE-52 entered on the 31-05 14:38
-FAKE-53 entered on the 31-05 14:38
-FAKE-54 entered on the 31-05 14:38
-FAKE-55 entered on the 31-05 14:38
-FAKE-56 entered on the 31-05 14:38
-FAKE-57 entered on the 31-05 14:38
-FAKE-58 entered on the 31-05 14:38
-FAKE-59 entered on the 31-05 14:38
-FAKE-60 entered on the 31-05 14:38
-FAKE-61 entered on the 31-05 14:38
-FAKE-62 entered on the 31-05 14:38
-FAKE-63 entered on the 31-05 14:38
-FAKE-64 entered on the 31-05 14:38
-FAKE-65 entered on the 31-05 14:38
-FAKE-66 entered on the 31-05 14:38
-FAKE-67 entered on the 31-05 14:38
-FAKE-68 entered on the 31-05 14:38
-FAKE-69 entered on the 31-05 14:38
-FAKE-70 entered on the 31-05 14:38
-FAKE-71 entered on the 31-05 14:38
-FAKE-72 entered on the 31-05 14:38
-FAKE-73 entered on the 31-05 14:38
-FAKE-74 entered on the 31-05 14:38
-FAKE-75 entered on the 31-05 14:38
-FAKE-76 entered on the 31-05 14:38
-FAKE-77 entered on the 31-05 14:38
-FAKE-78 entered on the 31-05 14:38
-FAKE-79 entered on the 31-05 14:38
-FAKE-80 entered on the 31-05 14:38
-FAKE-81 entered on the 31-05 14:38
-FAKE-82 entered on the 31-05 14:38
-FAKE-83 entered on the 31-05 14:38
-FAKE-84 entered on the 31-05 14:38
-FAKE-85 entered on the 31-05 14:38
-FAKE-86 entered on the 31-05 14:38
-FAKE-87 entered on the 31-05 14:38
-FAKE-88 entered on the 31-05 14:38
-FAKE-89 entered on the 31-05 14:38
-FAKE-90 entered on the 31-05 14:38
-FAKE-91 entered on the 31-05 14:38
-FAKE-92 entered on the 31-05 14:38
-FAKE-93 entered on the 31-05 14:38
-FAKE-94 entered on the 31-05 14:38
-FAKE-95 entered on the 31-05 14:38
-FAKE-96 entered on the 31-05 14:38
-FAKE-97 entered on the 31-05 14:38
-FAKE-98 entered on the 31-05 14:38
-FAKE-99 entered on the 31-05 14:38
-FAKE-100 entered on the 31-05 14:38
-FAKE-100 exited on the 31-05 14:38
-FAKE-001 entered on the 31-05 14:38
-FAKE-001 exited on the 31-05 14:38
-FAKE-001 entered on the 31-05 14:38
-FAKE-0 entered on the 31-05 14:38
-FAKE-1 entered on the 31-05 14:38
-FAKE-2 entered on the 31-05 14:38
-FAKE-3 entered on the 31-05 14:38
-FAKE-4 entered on the 31-05 14:38
-FAKE-5 entered on the 31-05 14:38
-FAKE-6 entered on the 31-05 14:38
-FAKE-7 entered on the 31-05 14:38
-FAKE-8 entered on the 31-05 14:38
-FAKE-9 entered on the 31-05 14:38
-FAKE-10 entered on the 31-05 14:38
-FAKE-11 entered on the 31-05 14:38
-FAKE-12 entered on the 31-05 14:38
-FAKE-13 entered on the 31-05 14:38
-FAKE-14 entered on the 31-05 14:38
-FAKE-15 entered on the 31-05 14:38
-FAKE-16 entered on the 31-05 14:38
-FAKE-17 entered on the 31-05 14:38
-FAKE-18 entered on the 31-05 14:38
-FAKE-19 entered on the 31-05 14:38
-FAKE-20 entered on the 31-05 14:38
-FAKE-21 entered on the 31-05 14:38
-FAKE-22 entered on the 31-05 14:38
-FAKE-23 entered on the 31-05 14:38
-FAKE-24 entered on the 31-05 14:38
-FAKE-25 entered on the 31-05 14:38
-FAKE-26 entered on the 31-05 14:38
-FAKE-27 entered on the 31-05 14:38
-FAKE-28 entered on the 31-05 14:38
-FAKE-29 entered on the 31-05 14:38
-FAKE-30 entered on the 31-05 14:38
-FAKE-31 entered on the 31-05 14:38
-FAKE-32 entered on the 31-05 14:38
-FAKE-33 entered on the 31-05 14:38
-FAKE-34 entered on the 31-05 14:38
-FAKE-35 entered on the 31-05 14:38
-FAKE-36 entered on the 31-05 14:38
-FAKE-37 entered on the 31-05 14:38
-FAKE-38 entered on the 31-05 14:38
-FAKE-39 entered on the 31-05 14:38
-FAKE-40 entered on the 31-05 14:38
-FAKE-41 entered on the 31-05 14:38
-FAKE-42 entered on the 31-05 14:38
-FAKE-43 entered on the 31-05 14:38
-FAKE-44 entered on the 31-05 14:38
-FAKE-45 entered on the 31-05 14:38
-FAKE-46 entered on the 31-05 14:38
-FAKE-47 entered on the 31-05 14:38
-FAKE-48 entered on the 31-05 14:38
-FAKE-49 entered on the 31-05 14:38
-FAKE-50 entered on the 31-05 14:38
-FAKE-51 entered on the 31-05 14:38
-FAKE-52 entered on the 31-05 14:38
-FAKE-53 entered on the 31-05 14:38
-FAKE-54 entered on the 31-05 14:38
-FAKE-55 entered on the 31-05 14:38
-FAKE-56 entered on the 31-05 14:38
-FAKE-57 entered on the 31-05 14:38
-FAKE-58 entered on the 31-05 14:38
-FAKE-59 entered on the 31-05 14:38
-FAKE-60 entered on the 31-05 14:38
-FAKE-61 entered on the 31-05 14:38
-FAKE-62 entered on the 31-05 14:38
-FAKE-63 entered on the 31-05 14:38
-FAKE-64 entered on the 31-05 14:38
-FAKE-65 entered on the 31-05 14:38
-FAKE-66 entered on the 31-05 14:38
-FAKE-67 entered on the 31-05 14:38
-FAKE-68 entered on the 31-05 14:38
-FAKE-69 entered on the 31-05 14:38
-FAKE-70 entered on the 31-05 14:38
-FAKE-71 entered on the 31-05 14:38
-FAKE-72 entered on the 31-05 14:38
-FAKE-73 entered on the 31-05 14:38
-FAKE-74 entered on the 31-05 14:38
-FAKE-75 entered on the 31-05 14:38
-FAKE-76 entered on the 31-05 14:38
-FAKE-77 entered on the 31-05 14:38
-FAKE-78 entered on the 31-05 14:38
-FAKE-79 entered on the 31-05 14:38
-FAKE-80 entered on the 31-05 14:38
-FAKE-81 entered on the 31-05 14:38
-FAKE-82 entered on the 31-05 14:38
-FAKE-83 entered on the 31-05 14:38
-FAKE-84 entered on the 31-05 14:38
-FAKE-85 entered on the 31-05 14:38
-FAKE-86 entered on the 31-05 14:38
-FAKE-87 entered on the 31-05 14:38
-FAKE-88 entered on the 31-05 14:38
-FAKE-89 entered on the 31-05 14:38
-FAKE-90 entered on the 31-05 14:38
-FAKE-91 entered on the 31-05 14:38
-FAKE-92 entered on the 31-05 14:38
-FAKE-93 entered on the 31-05 14:38
-FAKE-94 entered on the 31-05 14:38
-FAKE-95 entered on the 31-05 14:38
-FAKE-96 entered on the 31-05 14:38
-FAKE-97 entered on the 31-05 14:38
-FAKE-98 entered on the 31-05 14:38
-FAKE-99 entered on the 31-05 14:38
-FAKE-100 entered on the 31-05 14:38
-FAKE-100 exited on the 31-05 14:38
-FAKE-001 entered on the 31-05 14:38
-FAKE-001 exited on the 31-05 14:38
-FAKE-001 entered on the 31-05 14:38
-FAKE-0 entered on the 31-05 14:38
-FAKE-1 entered on the 31-05 14:38
-FAKE-2 entered on the 31-05 14:38
-FAKE-3 entered on the 31-05 14:38
-FAKE-4 entered on the 31-05 14:38
-FAKE-5 entered on the 31-05 14:38
-FAKE-6 entered on the 31-05 14:38
-FAKE-7 entered on the 31-05 14:38
-FAKE-8 entered on the 31-05 14:38
-FAKE-9 entered on the 31-05 14:38
-FAKE-10 entered on the 31-05 14:38
-FAKE-11 entered on the 31-05 14:38
-FAKE-12 entered on the 31-05 14:38
-FAKE-13 entered on the 31-05 14:38
-FAKE-14 entered on the 31-05 14:38
-FAKE-15 entered on the 31-05 14:38
-FAKE-16 entered on the 31-05 14:38
-FAKE-17 entered on the 31-05 14:38
-FAKE-18 entered on the 31-05 14:38
-FAKE-19 entered on the 31-05 14:38
-FAKE-20 entered on the 31-05 14:38
-FAKE-21 entered on the 31-05 14:38
-FAKE-22 entered on the 31-05 14:38
-FAKE-23 entered on the 31-05 14:38
-FAKE-24 entered on the 31-05 14:38
-FAKE-25 entered on the 31-05 14:38
-FAKE-26 entered on the 31-05 14:38
-FAKE-27 entered on the 31-05 14:38
-FAKE-28 entered on the 31-05 14:38
-FAKE-29 entered on the 31-05 14:38
-FAKE-30 entered on the 31-05 14:38
-FAKE-31 entered on the 31-05 14:38
-FAKE-32 entered on the 31-05 14:38
-FAKE-33 entered on the 31-05 14:38
-FAKE-34 entered on the 31-05 14:38
-FAKE-35 entered on the 31-05 14:38
-FAKE-36 entered on the 31-05 14:38
-FAKE-37 entered on the 31-05 14:38
-FAKE-38 entered on the 31-05 14:38
-FAKE-39 entered on the 31-05 14:38
-FAKE-40 entered on the 31-05 14:38
-FAKE-41 entered on the 31-05 14:38
-FAKE-42 entered on the 31-05 14:38
-FAKE-43 entered on the 31-05 14:38
-FAKE-44 entered on the 31-05 14:38
-FAKE-45 entered on the 31-05 14:38
-FAKE-46 entered on the 31-05 14:38
-FAKE-47 entered on the 31-05 14:38
-FAKE-48 entered on the 31-05 14:38
-FAKE-49 entered on the 31-05 14:38
-FAKE-50 entered on the 31-05 14:38
-FAKE-51 entered on the 31-05 14:38
-FAKE-52 entered on the 31-05 14:38
-FAKE-53 entered on the 31-05 14:38
-FAKE-54 entered on the 31-05 14:38
-FAKE-55 entered on the 31-05 14:38
-FAKE-56 entered on the 31-05 14:38
-FAKE-57 entered on the 31-05 14:38
-FAKE-58 entered on the 31-05 14:38
-FAKE-59 entered on the 31-05 14:38
-FAKE-60 entered on the 31-05 14:38
-FAKE-61 entered on the 31-05 14:38
-FAKE-62 entered on the 31-05 14:38
-FAKE-63 entered on the 31-05 14:38
-FAKE-64 entered on the 31-05 14:38
-FAKE-65 entered on the 31-05 14:38
-FAKE-66 entered on the 31-05 14:38
-FAKE-67 entered on the 31-05 14:38
-FAKE-68 entered on the 31-05 14:38
-FAKE-69 entered on the 31-05 14:38
-FAKE-70 entered on the 31-05 14:38
-FAKE-71 entered on the 31-05 14:38
-FAKE-72 entered on the 31-05 14:38
-FAKE-73 entered on the 31-05 14:38
-FAKE-74 entered on the 31-05 14:38
-FAKE-75 entered on the 31-05 14:38
-FAKE-76 entered on the 31-05 14:38
-FAKE-77 entered on the 31-05 14:38
-FAKE-78 entered on the 31-05 14:38
-FAKE-79 entered on the 31-05 14:38
-FAKE-80 entered on the 31-05 14:38
-FAKE-81 entered on the 31-05 14:38
-FAKE-82 entered on the 31-05 14:38
-FAKE-83 entered on the 31-05 14:38
-FAKE-84 entered on the 31-05 14:38
-FAKE-85 entered on the 31-05 14:38
-FAKE-86 entered on the 31-05 14:38
-FAKE-87 entered on the 31-05 14:38
-FAKE-88 entered on the 31-05 14:38
-FAKE-89 entered on the 31-05 14:38
-FAKE-90 entered on the 31-05 14:38
-FAKE-91 entered on the 31-05 14:38
-FAKE-92 entered on the 31-05 14:38
-FAKE-93 entered on the 31-05 14:38
-FAKE-94 entered on the 31-05 14:38
-FAKE-95 entered on the 31-05 14:38
-FAKE-96 entered on the 31-05 14:38
-FAKE-97 entered on the 31-05 14:38
-FAKE-98 entered on the 31-05 14:38
-FAKE-99 entered on the 31-05 14:38
-FAKE-100 entered on the 31-05 14:38
-FAKE-100 exited on the 31-05 14:38
-FAKE-001 entered on the 31-05 14:38
-FAKE-001 exited on the 31-05 14:38
-FAKE-001 entered on the 31-05 14:39
-FAKE-0 entered on the 31-05 14:39
-FAKE-1 entered on the 31-05 14:39
-FAKE-2 entered on the 31-05 14:39
-FAKE-3 entered on the 31-05 14:39
-FAKE-4 entered on the 31-05 14:39
-FAKE-5 entered on the 31-05 14:39
-FAKE-6 entered on the 31-05 14:39
-FAKE-7 entered on the 31-05 14:39
-FAKE-8 entered on the 31-05 14:39
-FAKE-9 entered on the 31-05 14:39
-FAKE-10 entered on the 31-05 14:39
-FAKE-11 entered on the 31-05 14:39
-FAKE-12 entered on the 31-05 14:39
-FAKE-13 entered on the 31-05 14:39
-FAKE-14 entered on the 31-05 14:39
-FAKE-15 entered on the 31-05 14:39
-FAKE-16 entered on the 31-05 14:39
-FAKE-17 entered on the 31-05 14:39
-FAKE-18 entered on the 31-05 14:39
-FAKE-19 entered on the 31-05 14:39
-FAKE-20 entered on the 31-05 14:39
-FAKE-21 entered on the 31-05 14:39
-FAKE-22 entered on the 31-05 14:39
-FAKE-23 entered on the 31-05 14:39
-FAKE-24 entered on the 31-05 14:39
-FAKE-25 entered on the 31-05 14:39
-FAKE-26 entered on the 31-05 14:39
-FAKE-27 entered on the 31-05 14:39
-FAKE-28 entered on the 31-05 14:39
-FAKE-29 entered on the 31-05 14:39
-FAKE-30 entered on the 31-05 14:39
-FAKE-31 entered on the 31-05 14:39
-FAKE-32 entered on the 31-05 14:39
-FAKE-33 entered on the 31-05 14:39
-FAKE-34 entered on the 31-05 14:39
-FAKE-35 entered on the 31-05 14:39
-FAKE-36 entered on the 31-05 14:39
-FAKE-37 entered on the 31-05 14:39
-FAKE-38 entered on the 31-05 14:39
-FAKE-39 entered on the 31-05 14:39
-FAKE-40 entered on the 31-05 14:39
-FAKE-41 entered on the 31-05 14:39
-FAKE-42 entered on the 31-05 14:39
-FAKE-43 entered on the 31-05 14:39
-FAKE-44 entered on the 31-05 14:39
-FAKE-45 entered on the 31-05 14:39
-FAKE-46 entered on the 31-05 14:39
-FAKE-47 entered on the 31-05 14:39
-FAKE-48 entered on the 31-05 14:39
-FAKE-49 entered on the 31-05 14:39
-FAKE-50 entered on the 31-05 14:39
-FAKE-51 entered on the 31-05 14:39
-FAKE-52 entered on the 31-05 14:39
-FAKE-53 entered on the 31-05 14:39
-FAKE-54 entered on the 31-05 14:39
-FAKE-55 entered on the 31-05 14:39
-FAKE-56 entered on the 31-05 14:39
-FAKE-57 entered on the 31-05 14:39
-FAKE-58 entered on the 31-05 14:39
-FAKE-59 entered on the 31-05 14:39
-FAKE-60 entered on the 31-05 14:39
-FAKE-61 entered on the 31-05 14:39
-FAKE-62 entered on the 31-05 14:39
-FAKE-63 entered on the 31-05 14:39
-FAKE-64 entered on the 31-05 14:39
-FAKE-65 entered on the 31-05 14:39
-FAKE-66 entered on the 31-05 14:39
-FAKE-67 entered on the 31-05 14:39
-FAKE-68 entered on the 31-05 14:39
-FAKE-69 entered on the 31-05 14:39
-FAKE-70 entered on the 31-05 14:39
-FAKE-71 entered on the 31-05 14:39
-FAKE-72 entered on the 31-05 14:39
-FAKE-73 entered on the 31-05 14:39
-FAKE-74 entered on the 31-05 14:39
-FAKE-75 entered on the 31-05 14:39
-FAKE-76 entered on the 31-05 14:39
-FAKE-77 entered on the 31-05 14:39
-FAKE-78 entered on the 31-05 14:39
-FAKE-79 entered on the 31-05 14:39
-FAKE-80 entered on the 31-05 14:39
-FAKE-81 entered on the 31-05 14:39
-FAKE-82 entered on the 31-05 14:39
-FAKE-83 entered on the 31-05 14:39
-FAKE-84 entered on the 31-05 14:39
-FAKE-85 entered on the 31-05 14:39
-FAKE-86 entered on the 31-05 14:39
-FAKE-87 entered on the 31-05 14:39
-FAKE-88 entered on the 31-05 14:39
-FAKE-89 entered on the 31-05 14:39
-FAKE-90 entered on the 31-05 14:39
-FAKE-91 entered on the 31-05 14:39
-FAKE-92 entered on the 31-05 14:39
-FAKE-93 entered on the 31-05 14:39
-FAKE-94 entered on the 31-05 14:39
-FAKE-95 entered on the 31-05 14:39
-FAKE-96 entered on the 31-05 14:39
-FAKE-97 entered on the 31-05 14:39
-FAKE-98 entered on the 31-05 14:39
-FAKE-99 entered on the 31-05 14:39
-FAKE-100 entered on the 31-05 14:39
-FAKE-100 exited on the 31-05 14:39
-FAKE-001 entered on the 31-05 14:39
-FAKE-001 exited on the 31-05 14:39
+FAKE-001 entered at 2024-05-31 16:20:20
+FULL-0 entered at 2024-05-31 16:20:20
+FULL-1 entered at 2024-05-31 16:20:20
+FULL-2 entered at 2024-05-31 16:20:20
+FULL-3 entered at 2024-05-31 16:20:20
+FULL-4 entered at 2024-05-31 16:20:20
+FULL-5 entered at 2024-05-31 16:20:20
+FULL-6 entered at 2024-05-31 16:20:20
+FULL-7 entered at 2024-05-31 16:20:20
+FULL-8 entered at 2024-05-31 16:20:20
+FULL-9 entered at 2024-05-31 16:20:20
+FULL-10 entered at 2024-05-31 16:20:20
+FULL-11 entered at 2024-05-31 16:20:20
+FULL-12 entered at 2024-05-31 16:20:20
+FULL-13 entered at 2024-05-31 16:20:20
+FULL-14 entered at 2024-05-31 16:20:20
+FULL-15 entered at 2024-05-31 16:20:20
+FULL-16 entered at 2024-05-31 16:20:20
+FULL-17 entered at 2024-05-31 16:20:20
+FULL-18 entered at 2024-05-31 16:20:20
+FULL-19 entered at 2024-05-31 16:20:20
+FULL-20 entered at 2024-05-31 16:20:20
+FULL-21 entered at 2024-05-31 16:20:20
+FULL-22 entered at 2024-05-31 16:20:20
+FULL-23 entered at 2024-05-31 16:20:20
+FULL-24 entered at 2024-05-31 16:20:20
+FULL-25 entered at 2024-05-31 16:20:20
+FULL-26 entered at 2024-05-31 16:20:20
+FULL-27 entered at 2024-05-31 16:20:20
+FULL-28 entered at 2024-05-31 16:20:20
+FULL-29 entered at 2024-05-31 16:20:20
+FULL-30 entered at 2024-05-31 16:20:20
+FULL-31 entered at 2024-05-31 16:20:20
+FULL-32 entered at 2024-05-31 16:20:20
+FULL-33 entered at 2024-05-31 16:20:20
+FULL-34 entered at 2024-05-31 16:20:20
+FULL-35 entered at 2024-05-31 16:20:20
+FULL-36 entered at 2024-05-31 16:20:20
+FULL-37 entered at 2024-05-31 16:20:20
+FULL-38 entered at 2024-05-31 16:20:20
+FULL-39 entered at 2024-05-31 16:20:20
+FULL-40 entered at 2024-05-31 16:20:20
+FULL-41 entered at 2024-05-31 16:20:20
+FULL-42 entered at 2024-05-31 16:20:20
+FULL-43 entered at 2024-05-31 16:20:20
+FULL-44 entered at 2024-05-31 16:20:20
+FULL-45 entered at 2024-05-31 16:20:20
+FULL-46 entered at 2024-05-31 16:20:20
+FULL-47 entered at 2024-05-31 16:20:20
+FULL-48 entered at 2024-05-31 16:20:20
+FULL-49 entered at 2024-05-31 16:20:20
+FULL-50 entered at 2024-05-31 16:20:20
+FULL-51 entered at 2024-05-31 16:20:20
+FULL-52 entered at 2024-05-31 16:20:20
+FULL-53 entered at 2024-05-31 16:20:20
+FULL-54 entered at 2024-05-31 16:20:20
+FULL-55 entered at 2024-05-31 16:20:20
+FULL-56 entered at 2024-05-31 16:20:20
+FULL-57 entered at 2024-05-31 16:20:20
+FULL-58 entered at 2024-05-31 16:20:20
+FULL-59 entered at 2024-05-31 16:20:20
+FULL-60 entered at 2024-05-31 16:20:20
+FULL-61 entered at 2024-05-31 16:20:20
+FULL-62 entered at 2024-05-31 16:20:20
+FULL-63 entered at 2024-05-31 16:20:20
+FULL-64 entered at 2024-05-31 16:20:20
+FULL-65 entered at 2024-05-31 16:20:20
+FULL-66 entered at 2024-05-31 16:20:20
+FULL-67 entered at 2024-05-31 16:20:20
+FULL-68 entered at 2024-05-31 16:20:20
+FULL-69 entered at 2024-05-31 16:20:20
+FULL-70 entered at 2024-05-31 16:20:20
+FULL-71 entered at 2024-05-31 16:20:20
+FULL-72 entered at 2024-05-31 16:20:20
+FULL-73 entered at 2024-05-31 16:20:20
+FULL-74 entered at 2024-05-31 16:20:20
+FULL-75 entered at 2024-05-31 16:20:20
+FULL-76 entered at 2024-05-31 16:20:20
+FULL-77 entered at 2024-05-31 16:20:20
+FULL-78 entered at 2024-05-31 16:20:20
+FULL-79 entered at 2024-05-31 16:20:20
+FULL-80 entered at 2024-05-31 16:20:20
+FULL-81 entered at 2024-05-31 16:20:20
+FULL-82 entered at 2024-05-31 16:20:20
+FULL-83 entered at 2024-05-31 16:20:20
+FULL-84 entered at 2024-05-31 16:20:20
+FULL-85 entered at 2024-05-31 16:20:20
+FULL-86 entered at 2024-05-31 16:20:20
+FULL-87 entered at 2024-05-31 16:20:20
+FULL-88 entered at 2024-05-31 16:20:20
+FULL-89 entered at 2024-05-31 16:20:20
+FULL-90 entered at 2024-05-31 16:20:20
+FULL-91 entered at 2024-05-31 16:20:20
+FULL-92 entered at 2024-05-31 16:20:20
+FULL-93 entered at 2024-05-31 16:20:20
+FULL-94 entered at 2024-05-31 16:20:20
+FULL-95 entered at 2024-05-31 16:20:20
+FULL-96 entered at 2024-05-31 16:20:20
+FULL-97 entered at 2024-05-31 16:20:20
+FULL-98 entered at 2024-05-31 16:20:20
+FULL-99 entered at 2024-05-31 16:20:20
+FULL-111 entered at 2024-05-31 16:20:20
+FULL-111 exited at 2024-05-31 16:20:20
+FAKE-002 entered at 2024-05-31 16:20:20
+FAKE-002 exited at 2024-05-31 16:20:20
+FAKE-001 entered at 2024-06-05 09:25:19
+NEW-001 entered at 2024-06-05 09:25:19
+NEW-001 entered at 2024-06-05 09:25:19
+NEW-001 exited at 2024-06-05 09:25:19
+FULL-0 entered at 2024-06-05 09:25:19
+FULL-1 entered at 2024-06-05 09:25:19
+FULL-2 entered at 2024-06-05 09:25:19
+FULL-3 entered at 2024-06-05 09:25:19
+FULL-4 entered at 2024-06-05 09:25:19
+FULL-5 entered at 2024-06-05 09:25:19
+FULL-6 entered at 2024-06-05 09:25:19
+FULL-7 entered at 2024-06-05 09:25:19
+FULL-8 entered at 2024-06-05 09:25:19
+FULL-9 entered at 2024-06-05 09:25:19
+FULL-10 entered at 2024-06-05 09:25:19
+FULL-11 entered at 2024-06-05 09:25:19
+FULL-12 entered at 2024-06-05 09:25:19
+FULL-13 entered at 2024-06-05 09:25:19
+FULL-14 entered at 2024-06-05 09:25:19
+FULL-15 entered at 2024-06-05 09:25:19
+FULL-16 entered at 2024-06-05 09:25:19
+FULL-17 entered at 2024-06-05 09:25:19
+FULL-18 entered at 2024-06-05 09:25:19
+FULL-19 entered at 2024-06-05 09:25:19
+FULL-20 entered at 2024-06-05 09:25:19
+FULL-21 entered at 2024-06-05 09:25:19
+FULL-22 entered at 2024-06-05 09:25:19
+FULL-23 entered at 2024-06-05 09:25:19
+FULL-24 entered at 2024-06-05 09:25:19
+FULL-25 entered at 2024-06-05 09:25:19
+FULL-26 entered at 2024-06-05 09:25:19
+FULL-27 entered at 2024-06-05 09:25:19
+FULL-28 entered at 2024-06-05 09:25:19
+FULL-29 entered at 2024-06-05 09:25:19
+FULL-30 entered at 2024-06-05 09:25:19
+FULL-31 entered at 2024-06-05 09:25:19
+FULL-32 entered at 2024-06-05 09:25:19
+FULL-33 entered at 2024-06-05 09:25:19
+FULL-34 entered at 2024-06-05 09:25:19
+FULL-35 entered at 2024-06-05 09:25:19
+FULL-36 entered at 2024-06-05 09:25:19
+FULL-37 entered at 2024-06-05 09:25:19
+FULL-38 entered at 2024-06-05 09:25:19
+FULL-39 entered at 2024-06-05 09:25:19
+FULL-40 entered at 2024-06-05 09:25:19
+FULL-41 entered at 2024-06-05 09:25:19
+FULL-42 entered at 2024-06-05 09:25:19
+FULL-43 entered at 2024-06-05 09:25:19
+FULL-44 entered at 2024-06-05 09:25:19
+FULL-45 entered at 2024-06-05 09:25:19
+FULL-46 entered at 2024-06-05 09:25:19
+FULL-47 entered at 2024-06-05 09:25:19
+FULL-48 entered at 2024-06-05 09:25:19
+FULL-49 entered at 2024-06-05 09:25:19
+FULL-50 entered at 2024-06-05 09:25:19
+FULL-51 entered at 2024-06-05 09:25:19
+FULL-52 entered at 2024-06-05 09:25:19
+FULL-53 entered at 2024-06-05 09:25:19
+FULL-54 entered at 2024-06-05 09:25:19
+FULL-55 entered at 2024-06-05 09:25:19
+FULL-56 entered at 2024-06-05 09:25:19
+FULL-57 entered at 2024-06-05 09:25:19
+FULL-58 entered at 2024-06-05 09:25:19
+FULL-59 entered at 2024-06-05 09:25:19
+FULL-60 entered at 2024-06-05 09:25:19
+FULL-61 entered at 2024-06-05 09:25:19
+FULL-62 entered at 2024-06-05 09:25:19
+FULL-63 entered at 2024-06-05 09:25:19
+FULL-64 entered at 2024-06-05 09:25:19
+FULL-65 entered at 2024-06-05 09:25:19
+FULL-66 entered at 2024-06-05 09:25:19
+FULL-67 entered at 2024-06-05 09:25:19
+FULL-68 entered at 2024-06-05 09:25:19
+FULL-69 entered at 2024-06-05 09:25:19
+FULL-70 entered at 2024-06-05 09:25:19
+FULL-71 entered at 2024-06-05 09:25:19
+FULL-72 entered at 2024-06-05 09:25:19
+FULL-73 entered at 2024-06-05 09:25:19
+FULL-74 entered at 2024-06-05 09:25:19
+FULL-75 entered at 2024-06-05 09:25:19
+FULL-76 entered at 2024-06-05 09:25:19
+FULL-77 entered at 2024-06-05 09:25:19
+FULL-78 entered at 2024-06-05 09:25:19
+FULL-79 entered at 2024-06-05 09:25:19
+FULL-80 entered at 2024-06-05 09:25:19
+FULL-81 entered at 2024-06-05 09:25:19
+FULL-82 entered at 2024-06-05 09:25:19
+FULL-83 entered at 2024-06-05 09:25:19
+FULL-84 entered at 2024-06-05 09:25:19
+FULL-85 entered at 2024-06-05 09:25:19
+FULL-86 entered at 2024-06-05 09:25:19
+FULL-87 entered at 2024-06-05 09:25:19
+FULL-88 entered at 2024-06-05 09:25:19
+FULL-89 entered at 2024-06-05 09:25:19
+FULL-90 entered at 2024-06-05 09:25:19
+FULL-91 entered at 2024-06-05 09:25:19
+FULL-92 entered at 2024-06-05 09:25:19
+FULL-93 entered at 2024-06-05 09:25:19
+FULL-94 entered at 2024-06-05 09:25:19
+FULL-95 entered at 2024-06-05 09:25:19
+FULL-96 entered at 2024-06-05 09:25:19
+FULL-97 entered at 2024-06-05 09:25:19
+FULL-98 entered at 2024-06-05 09:25:19
+FULL-99 entered at 2024-06-05 09:25:19
+FULL-111 entered at 2024-06-05 09:25:19
+FULL-111 exited at 2024-06-05 09:25:19
+FAKE-002 entered at 2024-06-05 09:25:19
+FAKE-002 exited at 2024-06-05 09:25:19
+FAKE-001 entered at 2024-06-05 09:26:48
+NEW-001 entered at 2024-06-05 09:26:48
+NEW-001 entered at 2024-06-05 09:26:48
+NEW-001 exited at 2024-06-05 09:26:48
+FULL-0 entered at 2024-06-05 09:26:48
+FULL-1 entered at 2024-06-05 09:26:48
+FULL-2 entered at 2024-06-05 09:26:48
+FULL-3 entered at 2024-06-05 09:26:48
+FULL-4 entered at 2024-06-05 09:26:48
+FULL-5 entered at 2024-06-05 09:26:48
+FULL-6 entered at 2024-06-05 09:26:48
+FULL-7 entered at 2024-06-05 09:26:48
+FULL-8 entered at 2024-06-05 09:26:48
+FULL-9 entered at 2024-06-05 09:26:48
+FULL-10 entered at 2024-06-05 09:26:48
+FULL-11 entered at 2024-06-05 09:26:48
+FULL-12 entered at 2024-06-05 09:26:48
+FULL-13 entered at 2024-06-05 09:26:48
+FULL-14 entered at 2024-06-05 09:26:48
+FULL-15 entered at 2024-06-05 09:26:48
+FULL-16 entered at 2024-06-05 09:26:48
+FULL-17 entered at 2024-06-05 09:26:48
+FULL-18 entered at 2024-06-05 09:26:48
+FULL-19 entered at 2024-06-05 09:26:48
+FULL-20 entered at 2024-06-05 09:26:48
+FULL-21 entered at 2024-06-05 09:26:48
+FULL-22 entered at 2024-06-05 09:26:48
+FULL-23 entered at 2024-06-05 09:26:48
+FULL-24 entered at 2024-06-05 09:26:48
+FULL-25 entered at 2024-06-05 09:26:48
+FULL-26 entered at 2024-06-05 09:26:48
+FULL-27 entered at 2024-06-05 09:26:48
+FULL-28 entered at 2024-06-05 09:26:48
+FULL-29 entered at 2024-06-05 09:26:48
+FULL-30 entered at 2024-06-05 09:26:48
+FULL-31 entered at 2024-06-05 09:26:48
+FULL-32 entered at 2024-06-05 09:26:48
+FULL-33 entered at 2024-06-05 09:26:48
+FULL-34 entered at 2024-06-05 09:26:48
+FULL-35 entered at 2024-06-05 09:26:48
+FULL-36 entered at 2024-06-05 09:26:48
+FULL-37 entered at 2024-06-05 09:26:48
+FULL-38 entered at 2024-06-05 09:26:48
+FULL-39 entered at 2024-06-05 09:26:48
+FULL-40 entered at 2024-06-05 09:26:48
+FULL-41 entered at 2024-06-05 09:26:48
+FULL-42 entered at 2024-06-05 09:26:48
+FULL-43 entered at 2024-06-05 09:26:48
+FULL-44 entered at 2024-06-05 09:26:48
+FULL-45 entered at 2024-06-05 09:26:48
+FULL-46 entered at 2024-06-05 09:26:48
+FULL-47 entered at 2024-06-05 09:26:48
+FULL-48 entered at 2024-06-05 09:26:48
+FULL-49 entered at 2024-06-05 09:26:48
+FULL-50 entered at 2024-06-05 09:26:48
+FULL-51 entered at 2024-06-05 09:26:48
+FULL-52 entered at 2024-06-05 09:26:48
+FULL-53 entered at 2024-06-05 09:26:48
+FULL-54 entered at 2024-06-05 09:26:48
+FULL-55 entered at 2024-06-05 09:26:48
+FULL-56 entered at 2024-06-05 09:26:48
+FULL-57 entered at 2024-06-05 09:26:48
+FULL-58 entered at 2024-06-05 09:26:48
+FULL-59 entered at 2024-06-05 09:26:48
+FULL-60 entered at 2024-06-05 09:26:48
+FULL-61 entered at 2024-06-05 09:26:48
+FULL-62 entered at 2024-06-05 09:26:48
+FULL-63 entered at 2024-06-05 09:26:48
+FULL-64 entered at 2024-06-05 09:26:48
+FULL-65 entered at 2024-06-05 09:26:48
+FULL-66 entered at 2024-06-05 09:26:48
+FULL-67 entered at 2024-06-05 09:26:48
+FULL-68 entered at 2024-06-05 09:26:48
+FULL-69 entered at 2024-06-05 09:26:48
+FULL-70 entered at 2024-06-05 09:26:48
+FULL-71 entered at 2024-06-05 09:26:48
+FULL-72 entered at 2024-06-05 09:26:48
+FULL-73 entered at 2024-06-05 09:26:48
+FULL-74 entered at 2024-06-05 09:26:48
+FULL-75 entered at 2024-06-05 09:26:48
+FULL-76 entered at 2024-06-05 09:26:48
+FULL-77 entered at 2024-06-05 09:26:48
+FULL-78 entered at 2024-06-05 09:26:48
+FULL-79 entered at 2024-06-05 09:26:48
+FULL-80 entered at 2024-06-05 09:26:48
+FULL-81 entered at 2024-06-05 09:26:48
+FULL-82 entered at 2024-06-05 09:26:48
+FULL-83 entered at 2024-06-05 09:26:48
+FULL-84 entered at 2024-06-05 09:26:48
+FULL-85 entered at 2024-06-05 09:26:48
+FULL-86 entered at 2024-06-05 09:26:48
+FULL-87 entered at 2024-06-05 09:26:48
+FULL-88 entered at 2024-06-05 09:26:48
+FULL-89 entered at 2024-06-05 09:26:48
+FULL-90 entered at 2024-06-05 09:26:48
+FULL-91 entered at 2024-06-05 09:26:48
+FULL-92 entered at 2024-06-05 09:26:48
+FULL-93 entered at 2024-06-05 09:26:48
+FULL-94 entered at 2024-06-05 09:26:48
+FULL-95 entered at 2024-06-05 09:26:48
+FULL-96 entered at 2024-06-05 09:26:48
+FULL-97 entered at 2024-06-05 09:26:48
+FULL-98 entered at 2024-06-05 09:26:48
+FULL-99 entered at 2024-06-05 09:26:48
+FULL-111 entered at 2024-06-05 09:26:48
+FULL-111 exited at 2024-06-05 09:26:48
+FAKE-002 entered at 2024-06-05 09:26:48
+FAKE-002 exited at 2024-06-05 09:26:48
+FAKE-001 entered at 2024-06-05 09:27:06
+NEW-001 entered at 2024-06-05 09:27:06
+EXIT-001 entered at 2024-06-05 09:27:06
+EXIT-001 exited at 2024-06-05 09:27:06
+FULL-0 entered at 2024-06-05 09:27:06
+FULL-1 entered at 2024-06-05 09:27:06
+FULL-2 entered at 2024-06-05 09:27:06
+FULL-3 entered at 2024-06-05 09:27:06
+FULL-4 entered at 2024-06-05 09:27:06
+FULL-5 entered at 2024-06-05 09:27:06
+FULL-6 entered at 2024-06-05 09:27:06
+FULL-7 entered at 2024-06-05 09:27:06
+FULL-8 entered at 2024-06-05 09:27:06
+FULL-9 entered at 2024-06-05 09:27:06
+FULL-10 entered at 2024-06-05 09:27:06
+FULL-11 entered at 2024-06-05 09:27:06
+FULL-12 entered at 2024-06-05 09:27:06
+FULL-13 entered at 2024-06-05 09:27:06
+FULL-14 entered at 2024-06-05 09:27:06
+FULL-15 entered at 2024-06-05 09:27:06
+FULL-16 entered at 2024-06-05 09:27:06
+FULL-17 entered at 2024-06-05 09:27:06
+FULL-18 entered at 2024-06-05 09:27:06
+FULL-19 entered at 2024-06-05 09:27:06
+FULL-20 entered at 2024-06-05 09:27:06
+FULL-21 entered at 2024-06-05 09:27:06
+FULL-22 entered at 2024-06-05 09:27:06
+FULL-23 entered at 2024-06-05 09:27:06
+FULL-24 entered at 2024-06-05 09:27:06
+FULL-25 entered at 2024-06-05 09:27:06
+FULL-26 entered at 2024-06-05 09:27:06
+FULL-27 entered at 2024-06-05 09:27:06
+FULL-28 entered at 2024-06-05 09:27:06
+FULL-29 entered at 2024-06-05 09:27:06
+FULL-30 entered at 2024-06-05 09:27:06
+FULL-31 entered at 2024-06-05 09:27:06
+FULL-32 entered at 2024-06-05 09:27:06
+FULL-33 entered at 2024-06-05 09:27:06
+FULL-34 entered at 2024-06-05 09:27:06
+FULL-35 entered at 2024-06-05 09:27:06
+FULL-36 entered at 2024-06-05 09:27:06
+FULL-37 entered at 2024-06-05 09:27:06
+FULL-38 entered at 2024-06-05 09:27:06
+FULL-39 entered at 2024-06-05 09:27:06
+FULL-40 entered at 2024-06-05 09:27:06
+FULL-41 entered at 2024-06-05 09:27:06
+FULL-42 entered at 2024-06-05 09:27:06
+FULL-43 entered at 2024-06-05 09:27:06
+FULL-44 entered at 2024-06-05 09:27:06
+FULL-45 entered at 2024-06-05 09:27:06
+FULL-46 entered at 2024-06-05 09:27:06
+FULL-47 entered at 2024-06-05 09:27:06
+FULL-48 entered at 2024-06-05 09:27:06
+FULL-49 entered at 2024-06-05 09:27:06
+FULL-50 entered at 2024-06-05 09:27:06
+FULL-51 entered at 2024-06-05 09:27:06
+FULL-52 entered at 2024-06-05 09:27:06
+FULL-53 entered at 2024-06-05 09:27:06
+FULL-54 entered at 2024-06-05 09:27:06
+FULL-55 entered at 2024-06-05 09:27:06
+FULL-56 entered at 2024-06-05 09:27:06
+FULL-57 entered at 2024-06-05 09:27:06
+FULL-58 entered at 2024-06-05 09:27:06
+FULL-59 entered at 2024-06-05 09:27:06
+FULL-60 entered at 2024-06-05 09:27:06
+FULL-61 entered at 2024-06-05 09:27:06
+FULL-62 entered at 2024-06-05 09:27:06
+FULL-63 entered at 2024-06-05 09:27:06
+FULL-64 entered at 2024-06-05 09:27:06
+FULL-65 entered at 2024-06-05 09:27:06
+FULL-66 entered at 2024-06-05 09:27:06
+FULL-67 entered at 2024-06-05 09:27:06
+FULL-68 entered at 2024-06-05 09:27:06
+FULL-69 entered at 2024-06-05 09:27:06
+FULL-70 entered at 2024-06-05 09:27:06
+FULL-71 entered at 2024-06-05 09:27:06
+FULL-72 entered at 2024-06-05 09:27:06
+FULL-73 entered at 2024-06-05 09:27:06
+FULL-74 entered at 2024-06-05 09:27:06
+FULL-75 entered at 2024-06-05 09:27:06
+FULL-76 entered at 2024-06-05 09:27:06
+FULL-77 entered at 2024-06-05 09:27:06
+FULL-78 entered at 2024-06-05 09:27:06
+FULL-79 entered at 2024-06-05 09:27:06
+FULL-80 entered at 2024-06-05 09:27:06
+FULL-81 entered at 2024-06-05 09:27:06
+FULL-82 entered at 2024-06-05 09:27:06
+FULL-83 entered at 2024-06-05 09:27:06
+FULL-84 entered at 2024-06-05 09:27:06
+FULL-85 entered at 2024-06-05 09:27:06
+FULL-86 entered at 2024-06-05 09:27:06
+FULL-87 entered at 2024-06-05 09:27:06
+FULL-88 entered at 2024-06-05 09:27:06
+FULL-89 entered at 2024-06-05 09:27:06
+FULL-90 entered at 2024-06-05 09:27:06
+FULL-91 entered at 2024-06-05 09:27:06
+FULL-92 entered at 2024-06-05 09:27:06
+FULL-93 entered at 2024-06-05 09:27:06
+FULL-94 entered at 2024-06-05 09:27:06
+FULL-95 entered at 2024-06-05 09:27:06
+FULL-96 entered at 2024-06-05 09:27:06
+FULL-97 entered at 2024-06-05 09:27:06
+FULL-98 entered at 2024-06-05 09:27:06
+FULL-99 entered at 2024-06-05 09:27:06
+FULL-111 entered at 2024-06-05 09:27:06
+FULL-111 exited at 2024-06-05 09:27:06
+FAKE-002 entered at 2024-06-05 09:27:06
+FAKE-002 exited at 2024-06-05 09:27:06
+FAKE-001 entered at 2024-06-05 09:27:31
+NEW-001 entered at 2024-06-05 09:27:31
+EXIT-001 entered at 2024-06-05 09:27:31
+EXIT-001 exited at 2024-06-05 09:27:31
+FULL-0 entered at 2024-06-05 09:27:31
+FULL-1 entered at 2024-06-05 09:27:31
+FULL-2 entered at 2024-06-05 09:27:31
+FULL-3 entered at 2024-06-05 09:27:31
+FULL-4 entered at 2024-06-05 09:27:31
+FULL-5 entered at 2024-06-05 09:27:31
+FULL-6 entered at 2024-06-05 09:27:31
+FULL-7 entered at 2024-06-05 09:27:31
+FULL-8 entered at 2024-06-05 09:27:31
+FULL-9 entered at 2024-06-05 09:27:31
+FULL-10 entered at 2024-06-05 09:27:31
+FULL-11 entered at 2024-06-05 09:27:31
+FULL-12 entered at 2024-06-05 09:27:31
+FULL-13 entered at 2024-06-05 09:27:31
+FULL-14 entered at 2024-06-05 09:27:31
+FULL-15 entered at 2024-06-05 09:27:31
+FULL-16 entered at 2024-06-05 09:27:31
+FULL-17 entered at 2024-06-05 09:27:31
+FULL-18 entered at 2024-06-05 09:27:31
+FULL-19 entered at 2024-06-05 09:27:31
+FULL-20 entered at 2024-06-05 09:27:31
+FULL-21 entered at 2024-06-05 09:27:31
+FULL-22 entered at 2024-06-05 09:27:31
+FULL-23 entered at 2024-06-05 09:27:31
+FULL-24 entered at 2024-06-05 09:27:31
+FULL-25 entered at 2024-06-05 09:27:31
+FULL-26 entered at 2024-06-05 09:27:31
+FULL-27 entered at 2024-06-05 09:27:31
+FULL-28 entered at 2024-06-05 09:27:31
+FULL-29 entered at 2024-06-05 09:27:31
+FULL-30 entered at 2024-06-05 09:27:31
+FULL-31 entered at 2024-06-05 09:27:31
+FULL-32 entered at 2024-06-05 09:27:31
+FULL-33 entered at 2024-06-05 09:27:31
+FULL-34 entered at 2024-06-05 09:27:31
+FULL-35 entered at 2024-06-05 09:27:31
+FULL-36 entered at 2024-06-05 09:27:31
+FULL-37 entered at 2024-06-05 09:27:31
+FULL-38 entered at 2024-06-05 09:27:31
+FULL-39 entered at 2024-06-05 09:27:31
+FULL-40 entered at 2024-06-05 09:27:31
+FULL-41 entered at 2024-06-05 09:27:31
+FULL-42 entered at 2024-06-05 09:27:31
+FULL-43 entered at 2024-06-05 09:27:31
+FULL-44 entered at 2024-06-05 09:27:31
+FULL-45 entered at 2024-06-05 09:27:31
+FULL-46 entered at 2024-06-05 09:27:31
+FULL-47 entered at 2024-06-05 09:27:31
+FULL-48 entered at 2024-06-05 09:27:31
+FULL-49 entered at 2024-06-05 09:27:31
+FULL-50 entered at 2024-06-05 09:27:31
+FULL-51 entered at 2024-06-05 09:27:31
+FULL-52 entered at 2024-06-05 09:27:31
+FULL-53 entered at 2024-06-05 09:27:31
+FULL-54 entered at 2024-06-05 09:27:31
+FULL-55 entered at 2024-06-05 09:27:31
+FULL-56 entered at 2024-06-05 09:27:31
+FULL-57 entered at 2024-06-05 09:27:31
+FULL-58 entered at 2024-06-05 09:27:31
+FULL-59 entered at 2024-06-05 09:27:31
+FULL-60 entered at 2024-06-05 09:27:31
+FULL-61 entered at 2024-06-05 09:27:31
+FULL-62 entered at 2024-06-05 09:27:31
+FULL-63 entered at 2024-06-05 09:27:31
+FULL-64 entered at 2024-06-05 09:27:31
+FULL-65 entered at 2024-06-05 09:27:31
+FULL-66 entered at 2024-06-05 09:27:31
+FULL-67 entered at 2024-06-05 09:27:31
+FULL-68 entered at 2024-06-05 09:27:31
+FULL-69 entered at 2024-06-05 09:27:31
+FULL-70 entered at 2024-06-05 09:27:31
+FULL-71 entered at 2024-06-05 09:27:31
+FULL-72 entered at 2024-06-05 09:27:31
+FULL-73 entered at 2024-06-05 09:27:31
+FULL-74 entered at 2024-06-05 09:27:31
+FULL-75 entered at 2024-06-05 09:27:31
+FULL-76 entered at 2024-06-05 09:27:31
+FULL-77 entered at 2024-06-05 09:27:31
+FULL-78 entered at 2024-06-05 09:27:31
+FULL-79 entered at 2024-06-05 09:27:31
+FULL-80 entered at 2024-06-05 09:27:31
+FULL-81 entered at 2024-06-05 09:27:31
+FULL-82 entered at 2024-06-05 09:27:31
+FULL-83 entered at 2024-06-05 09:27:31
+FULL-84 entered at 2024-06-05 09:27:31
+FULL-85 entered at 2024-06-05 09:27:31
+FULL-86 entered at 2024-06-05 09:27:31
+FULL-87 entered at 2024-06-05 09:27:31
+FULL-88 entered at 2024-06-05 09:27:31
+FULL-89 entered at 2024-06-05 09:27:31
+FULL-90 entered at 2024-06-05 09:27:31
+FULL-91 entered at 2024-06-05 09:27:31
+FULL-92 entered at 2024-06-05 09:27:31
+FULL-93 entered at 2024-06-05 09:27:31
+FULL-94 entered at 2024-06-05 09:27:31
+FULL-95 entered at 2024-06-05 09:27:31
+FULL-96 entered at 2024-06-05 09:27:31
+FULL-97 entered at 2024-06-05 09:27:31
+FULL-98 entered at 2024-06-05 09:27:31
+FULL-99 entered at 2024-06-05 09:27:31
+FULL-111 entered at 2024-06-05 09:27:31
+FULL-111 exited at 2024-06-05 09:27:31
+FAKE-002 entered at 2024-06-05 09:27:31
+FAKE-002 exited at 2024-06-05 09:27:31
+FAKE-001 entered at 2024-06-05 09:29:42
+NEW-001 entered at 2024-06-05 09:29:42
+EXIT-001 entered at 2024-06-05 09:29:42
+EXIT-001 exited at 2024-06-05 09:29:42
+FULL-0 entered at 2024-06-05 09:29:42
+FULL-1 entered at 2024-06-05 09:29:42
+FULL-2 entered at 2024-06-05 09:29:42
+FULL-3 entered at 2024-06-05 09:29:42
+FULL-4 entered at 2024-06-05 09:29:42
+FULL-5 entered at 2024-06-05 09:29:42
+FULL-6 entered at 2024-06-05 09:29:42
+FULL-7 entered at 2024-06-05 09:29:42
+FULL-8 entered at 2024-06-05 09:29:42
+FULL-9 entered at 2024-06-05 09:29:42
+FULL-10 entered at 2024-06-05 09:29:42
+FULL-11 entered at 2024-06-05 09:29:42
+FULL-12 entered at 2024-06-05 09:29:42
+FULL-13 entered at 2024-06-05 09:29:42
+FULL-14 entered at 2024-06-05 09:29:42
+FULL-15 entered at 2024-06-05 09:29:42
+FULL-16 entered at 2024-06-05 09:29:42
+FULL-17 entered at 2024-06-05 09:29:42
+FULL-18 entered at 2024-06-05 09:29:42
+FULL-19 entered at 2024-06-05 09:29:42
+FULL-20 entered at 2024-06-05 09:29:42
+FULL-21 entered at 2024-06-05 09:29:42
+FULL-22 entered at 2024-06-05 09:29:42
+FULL-23 entered at 2024-06-05 09:29:42
+FULL-24 entered at 2024-06-05 09:29:42
+FULL-25 entered at 2024-06-05 09:29:42
+FULL-26 entered at 2024-06-05 09:29:42
+FULL-27 entered at 2024-06-05 09:29:42
+FULL-28 entered at 2024-06-05 09:29:42
+FULL-29 entered at 2024-06-05 09:29:42
+FULL-30 entered at 2024-06-05 09:29:42
+FULL-31 entered at 2024-06-05 09:29:42
+FULL-32 entered at 2024-06-05 09:29:42
+FULL-33 entered at 2024-06-05 09:29:42
+FULL-34 entered at 2024-06-05 09:29:42
+FULL-35 entered at 2024-06-05 09:29:42
+FULL-36 entered at 2024-06-05 09:29:42
+FULL-37 entered at 2024-06-05 09:29:42
+FULL-38 entered at 2024-06-05 09:29:42
+FULL-39 entered at 2024-06-05 09:29:42
+FULL-40 entered at 2024-06-05 09:29:42
+FULL-41 entered at 2024-06-05 09:29:42
+FULL-42 entered at 2024-06-05 09:29:42
+FULL-43 entered at 2024-06-05 09:29:42
+FULL-44 entered at 2024-06-05 09:29:42
+FULL-45 entered at 2024-06-05 09:29:42
+FULL-46 entered at 2024-06-05 09:29:42
+FULL-47 entered at 2024-06-05 09:29:42
+FULL-48 entered at 2024-06-05 09:29:42
+FULL-49 entered at 2024-06-05 09:29:42
+FULL-50 entered at 2024-06-05 09:29:42
+FULL-51 entered at 2024-06-05 09:29:42
+FULL-52 entered at 2024-06-05 09:29:42
+FULL-53 entered at 2024-06-05 09:29:42
+FULL-54 entered at 2024-06-05 09:29:42
+FULL-55 entered at 2024-06-05 09:29:42
+FULL-56 entered at 2024-06-05 09:29:42
+FULL-57 entered at 2024-06-05 09:29:42
+FULL-58 entered at 2024-06-05 09:29:42
+FULL-59 entered at 2024-06-05 09:29:42
+FULL-60 entered at 2024-06-05 09:29:42
+FULL-61 entered at 2024-06-05 09:29:42
+FULL-62 entered at 2024-06-05 09:29:42
+FULL-63 entered at 2024-06-05 09:29:42
+FULL-64 entered at 2024-06-05 09:29:42
+FULL-65 entered at 2024-06-05 09:29:42
+FULL-66 entered at 2024-06-05 09:29:42
+FULL-67 entered at 2024-06-05 09:29:42
+FULL-68 entered at 2024-06-05 09:29:42
+FULL-69 entered at 2024-06-05 09:29:42
+FULL-70 entered at 2024-06-05 09:29:42
+FULL-71 entered at 2024-06-05 09:29:42
+FULL-72 entered at 2024-06-05 09:29:42
+FULL-73 entered at 2024-06-05 09:29:42
+FULL-74 entered at 2024-06-05 09:29:42
+FULL-75 entered at 2024-06-05 09:29:42
+FULL-76 entered at 2024-06-05 09:29:42
+FULL-77 entered at 2024-06-05 09:29:42
+FULL-78 entered at 2024-06-05 09:29:42
+FULL-79 entered at 2024-06-05 09:29:42
+FULL-80 entered at 2024-06-05 09:29:42
+FULL-81 entered at 2024-06-05 09:29:42
+FULL-82 entered at 2024-06-05 09:29:42
+FULL-83 entered at 2024-06-05 09:29:42
+FULL-84 entered at 2024-06-05 09:29:42
+FULL-85 entered at 2024-06-05 09:29:42
+FULL-86 entered at 2024-06-05 09:29:42
+FULL-87 entered at 2024-06-05 09:29:42
+FULL-88 entered at 2024-06-05 09:29:42
+FULL-89 entered at 2024-06-05 09:29:42
+FULL-90 entered at 2024-06-05 09:29:42
+FULL-91 entered at 2024-06-05 09:29:42
+FULL-92 entered at 2024-06-05 09:29:42
+FULL-93 entered at 2024-06-05 09:29:42
+FULL-94 entered at 2024-06-05 09:29:42
+FULL-95 entered at 2024-06-05 09:29:42
+FULL-96 entered at 2024-06-05 09:29:42
+FULL-97 entered at 2024-06-05 09:29:42
+FULL-98 entered at 2024-06-05 09:29:42
+FULL-99 entered at 2024-06-05 09:29:42
+FULL-111 entered at 2024-06-05 09:29:42
+FULL-111 exited at 2024-06-05 09:29:42
+FAKE-002 entered at 2024-06-05 09:29:42
+FAKE-002 exited at 2024-06-05 09:29:42
