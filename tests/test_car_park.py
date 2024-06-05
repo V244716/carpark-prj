@@ -1,6 +1,7 @@
 import unittest
 from pathlib import Path
 from car_park import CarPark
+import json
 
 class TestCarPark(unittest.TestCase):
     def setUp(self):
@@ -15,6 +16,7 @@ class TestCarPark(unittest.TestCase):
         self.assertEqual(self.car_park.displays, [])
         self.assertEqual(self.car_park.available_bays, 100)
         self.assertEqual(self.car_park.log_file, Path("log.txt"))
+        self.assertEqual(self.car_park.config_file, Path("config.json"))
 
     def test_add_car(self):
         self.car_park.add_car("FAKE-001")
@@ -70,6 +72,27 @@ class TestCarPark(unittest.TestCase):
        self.assertIn("EXIT-001", last_line) # check plate entered
        self.assertIn("exited", last_line) # check description
        self.assertIn("\n", last_line,) # check entry has a new line
+
+    def test_config_file_created(self):
+      new_carpark = CarPark("123 Example Street", 100, config_file="new_config.json")
+      self.assertTrue(Path("new_config.json").exists())
+
+    def tearDown_config(self):
+      Path("config.json").unlink(missing_ok=True)
+
+    def test_config_file_written(self):
+        self.car_park.write_config()
+        with self.car_park.config_file.open("r") as file:
+            cp = json.load(file)
+        self.assertEqual(cp, {'location':'123 Example Street', 'capacity':100, 'log_file':'log.txt'})
+
+    def test_CarPark_initialised_from_config_file(self):
+        new_carpark = CarPark("456 Saved Street", 200)
+        new_carpark.write_config()
+        next_new_carpark = CarPark.from_config()
+        self.assertEqual("456 Saved Street", next_new_carpark.location)
+        self.assertEqual(200, next_new_carpark.capacity)
+
 
 
 if __name__ == "__main__":
